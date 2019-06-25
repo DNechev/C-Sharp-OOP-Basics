@@ -1,0 +1,10 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\10. Explicit Interfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\bin\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\01. Person\obj\Debug\netcoreapp2.0\01.Person.pdb

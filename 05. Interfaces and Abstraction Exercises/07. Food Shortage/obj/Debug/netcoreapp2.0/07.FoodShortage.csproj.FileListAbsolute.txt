@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\07. Food Shortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojAssemblyReference.cache

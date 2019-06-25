@@ -1,0 +1,10 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\09. Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

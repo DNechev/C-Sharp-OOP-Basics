@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.pdb

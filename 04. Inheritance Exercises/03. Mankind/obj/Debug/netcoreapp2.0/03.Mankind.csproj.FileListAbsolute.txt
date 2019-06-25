@@ -1,0 +1,10 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\bin\Debug\netcoreapp2.0\03.Mankind.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\bin\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\bin\Debug\netcoreapp2.0\03.Mankind.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\obj\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\03. Mankind\obj\Debug\netcoreapp2.0\03.Mankind.pdb

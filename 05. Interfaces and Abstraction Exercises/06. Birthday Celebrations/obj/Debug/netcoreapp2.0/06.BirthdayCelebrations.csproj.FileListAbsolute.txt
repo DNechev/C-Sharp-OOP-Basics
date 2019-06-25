@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\bin\Debug\netcoreapp2.0\06.BirthdayCelebrations.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\bin\Debug\netcoreapp2.0\06.BirthdayCelebrations.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\bin\Debug\netcoreapp2.0\06.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\bin\Debug\netcoreapp2.0\06.BirthdayCelebrations.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\bin\Debug\netcoreapp2.0\06.BirthdayCelebrations.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\06. Birthday Celebrations\obj\Debug\netcoreapp2.0\06.BirthdayCelebrations.csprojAssemblyReference.cache

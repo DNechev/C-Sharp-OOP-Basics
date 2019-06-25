@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\bin\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\bin\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\bin\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\bin\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\bin\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\05. Mordor’s Cruel Plan\obj\Debug\netcoreapp2.0\05.Mordor’sCruelPlan.pdb

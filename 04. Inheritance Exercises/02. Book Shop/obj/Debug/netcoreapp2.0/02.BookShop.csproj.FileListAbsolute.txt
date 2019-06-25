@@ -1,0 +1,10 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\bin\Debug\netcoreapp2.0\02.BookShop.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\bin\Debug\netcoreapp2.0\02.BookShop.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\bin\Debug\netcoreapp2.0\02.BookShop.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\obj\Debug\netcoreapp2.0\02.BookShop.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\obj\Debug\netcoreapp2.0\02.BookShop.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\04. Inheritance Exercises\02. Book Shop\obj\Debug\netcoreapp2.0\02.BookShop.pdb

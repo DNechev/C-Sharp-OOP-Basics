@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.deps.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+C:\Users\dido9\Desktop\SoftUni-master\C# OOP Basics\05. Interfaces and Abstraction Exercises\02. Multiple Implementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csprojAssemblyReference.cache
